@@ -1,0 +1,8 @@
+# Virtual environment - recreate with the steps in README.md
+.venv/
+
+# Live demo data - server.py restores it from tasks.seed.json on first run
+tasks.json
+
+__pycache__/
+*.pyc
